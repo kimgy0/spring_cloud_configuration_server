@@ -1,5 +1,5 @@
 token:
   expiration_time: 864000000
-  secret: user_token_kkk
+  secret: user_token_kkk_ttt
 gateway:
   ip: 192.168.0.2
