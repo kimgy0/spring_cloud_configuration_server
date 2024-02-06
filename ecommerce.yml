@@ -1,6 +1,6 @@
 token:
   expiration_time: 111111212312
-  secret: user_token_ecommerce
+  secret: '{cipher}AQAezEjPX4XpNjhzl/LZaJgRS7qsnt2nhEUSG4dJ1h2aamgoS5HJpCuTVh4Va8MOzs8kinfnWh9WrR9N6K4eCUPAEXkZ7z2/1QvPbLJ/D9nPTwrtR5yi/9xM5TUOnq63Bez20gtH3STNv6/3xGio9w17WYIvrj0Ci0BClmAWjeIbS8OLPqXQfrrC3lRHH5imPy74lj68n9svFGbSnQ4swUcW6M00eQLm2G3RaNAPOLb8cmkOudPaYjXPZtMjbBRN+bJstT+nRoDse+F0U/kZiMIc6YfxXTmhCPKFx39r2nJPyMDDhE9I1HHZBuDURTPcb7hVTk+XqvGiyz/pchsav6IDndD3zG9bgckdDSvS9PwnA2m7sIOZvftgk55X4mGLjGMIg+ZOxVt6EpIUHU8baIVV'
 
 gateway:
   ip: 192.168.0.2
