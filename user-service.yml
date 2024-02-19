@@ -10,3 +10,6 @@ spring:
     url: jdbc:h2:mem:testdb
     username: sa
     password: '{cipher}AQCnD5uMO6uiK4LclXRjGvXDCskiGJ2XaRpM7OgYELRK4T7Yl8Q+iOcOe5lj+jrJSz4apkJ9AAfr/sNK9dcVyIP9p2FJ4G0tyBUjrYEPr043K3b6BtBwOjWhHlGypP/Zzp6jg9gIIf80/KLtIx0lEKyxja+JkgxyYQ7CuMqwZdAvQGhfXf1GGoDRBeBu2IH0decS/BSIv8aX23EK2zZIScmH2l+jxvuTwrwkjCf4mdypprxBr2DaGc6vyD5DMvfQYBVgZ75ONVd/YbicMJk6TEPzCqS8ImmUPVt29ogrVnmnDU4kxVN1Tno6aVVWo+ZOhGj7JswIGfftdylQKP1Qg94EXPWpIsPKgMXcfzBz98jdMp5dD55rlxuPBowY6UHTdas='
+
+order_service:
+  url: http://localhost:8000/order-service/%s/orders
